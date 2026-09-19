@@ -33,7 +33,7 @@ Aplicação simples (trabalho de faculdade) para simular um sistema de avaliaç�
 3. Clique em **Escolher arquivo** e selecione o arquivo `database\banco_escola.sql` desta pasta do projeto.
 4. Role até o final da página e clique em **Executar** (ou **Go**).
 
-Ou copie o script SQL completo no arquivo banco_escola
+Ou copie o script SQL completo do arquivo banco_escola e cole no SQL do banco de datos no phpmadmin
 
 ## 4. Abrir e rodar o projeto (pelo VSCode)
 
