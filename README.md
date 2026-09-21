@@ -18,7 +18,7 @@ Aplicação simples (trabalho de faculdade) para simular um sistema de avaliaç�
 ## 1. Ligar o MySQL
 
 1. Abra o **XAMPP Control Panel**.
-2. Clique em **Start** na linha do **MySQL**. 
+2. Clique em **Start** na linha do **Apache** e **MySQL**.
 
 ## 2. Criar o banco de dados pelo phpMyAdmin
 
