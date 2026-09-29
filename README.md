@@ -1,6 +1,6 @@
 # Sistema de Avaliações Escolares
 
-Aplicação simples (trabalho de faculdade) para simular um sistema de avaliações de uma escola.
+Aplicação para simular um sistema de avaliações de uma escola.
 
 ## Tecnologias Utilizadas
 
